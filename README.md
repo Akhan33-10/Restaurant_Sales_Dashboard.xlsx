@@ -1,5 +1,10 @@
+## Dashboard Preview
+
+![Dashboard Screenshot](Screenshot 2026-02-23 173558.png)
+ ---
 # Restaurant_Sales_Dashboard.xlsx
 Excel dashboard analyzing sales and delivery performance.
+
 ## 🔹 Project Overview
 This project is an interactive Excel dashboard analyzing sales, profit, and delivery performance across regions, cities, and product categories.
 
