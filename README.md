@@ -1,6 +1,8 @@
 ## Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2026-02-23 173558.png)
+![Dashboard screenshot] (Screenshot 2026-02-23 173558.png)
+<img width="223" height="21" alt="image" src="https://github.com/user-attachments/assets/7595d734-4537-4773-9b6e-c7029a55fe24" />
+
  ---
 # Restaurant_Sales_Dashboard.xlsx
 Excel dashboard analyzing sales and delivery performance.
